@@ -10,9 +10,9 @@
 
 <!-- 头像 -->
 <div align="center">
-<img width="120" src="@static/cxyduck.gif" />
-<img  src="@static/logo.png" align="center" height="200" width="200" />
-<img width="120" src="@static/cxyduck.gif" />
+<img width="120" src="cxyduck.gif" />
+<img  src="logo.png" align="center" height="200" width="200" />
+<img width="120" src="cxyduck.gif" />
 </div>  
 
 <!-- 个人介绍 -->
@@ -39,7 +39,7 @@
 
 <!-- 个人打卡记录 -->
 ## Github Streak  
-<div align="center"> <img src="@static/index.svg" /> </div>
+<div align="center"> <img src="index.svg" /> </div>
 <!-- for beauty 留个空行好看点 -->
 <div>&nbsp;</div>
 
